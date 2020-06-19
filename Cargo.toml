@@ -1,5 +1,7 @@
 [package]
 name = "caustic"
+description = "Placeholder"
+license = "MIT"
 version = "0.0.1"
 authors = ["Agro Rachmatullah <agro1986@gmail.com>"]
 edition = "2018"
